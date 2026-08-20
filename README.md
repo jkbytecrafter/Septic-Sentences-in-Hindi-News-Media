@@ -41,13 +41,19 @@ The dataset contains the following columns:
 
 The dataset includes sentences from the following domains:
 
-* Political
-* Disputes
-* Business
+* Generic
+* Politics
+* Crime
 * Sports
-* International Affairs
 * Entertainment
-* Technology
+* Business
+* Tech & Economy
+* Medical
+* Society
+* Accident
+* Environment
+* Education
+* International
 
 This domain diversity allows the dataset to include Hindi news sentences from different contexts and topics.
 
